@@ -6,11 +6,10 @@
 
 
     <!-- sample program  -->
+    <!--  comment out for VSCode debug       -->
+    <!--
     <node pkg="onigiri_war" type="randomRun.py" name="randomRun" output="screen"/>
-
-
-
-
+    -->
 
 
 
