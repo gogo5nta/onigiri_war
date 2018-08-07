@@ -1,3 +1,4 @@
+--- チームリラックマ(石上、長倉)の予選用ページです ---
 # onigiri_war
 OneNightROBOCON競技「onigiri war」プロジェクト
 
