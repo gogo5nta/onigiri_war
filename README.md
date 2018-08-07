@@ -1,4 +1,7 @@
+# info
 --- チームリラックマ(石上、長倉)の予選用ページです ---
+180807　予選用プログラム作成(randam走行の係数を変更しただけ)
+
 # onigiri_war
 OneNightROBOCON競技「onigiri war」プロジェクト
 
